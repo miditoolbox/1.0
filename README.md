@@ -2,6 +2,8 @@
 
 The current version of the MIDI Toolbox is 1.01 (released 23rd Jan 2006, minor updates). This was released at [http://www.jyu.fi/musica/miditoolbox/](http://www.jyu.fi/musica/miditoolbox/) and this document is equivalent to the `about.html` within the old release.
 
+**Note! If you are looking for the latest release, see [https://github.com/miditoolbox/1.1](https://github.com/miditoolbox/1.1).**
+
 ## Toolbox is free for academic use
 
 The Toolbox is free software; you can redistribute it and/or modify it under the terms of version 2 of GNU General Public License as published by the Free Software Foundation (see License.txt in the toolbox). To cite the MIDI Toolbox, use the following reference to the User's Manual (downloadable from this page, see below):
